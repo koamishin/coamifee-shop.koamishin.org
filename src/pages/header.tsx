@@ -45,15 +45,12 @@ export default function Header() {
       <div
         className={cn(
           'relative mt-4 max-h-[480px] overflow-hidden rounded-[12px] border border-border bg-contain bg-center shadow-lg',
-          version === '2.x' ? 'bg-[url(/img/services-light.png)]' : 'bg-[url(/img/overview-light.png)]',
-          version === '2.x' ? 'dark:bg-[url(/img/services-dark.png)]' : 'dark:bg-[url(/img/overview-dark.png)]',
+          'bg-[url(/img/overview-light.png)]',
+          'dark:bg-[url(/img/overview-dark.png)]',
         )}
       >
-        <img
-          src={version === '2.x' ? '/img/services-light.png' : '/img/overview-light.png'}
-          alt="Coffee Shop Management System"
-          className="max-h-[480px] bg-no-repeat opacity-0"
-        />
+        <img src="/img/overview-light.png" alt="Coffee Shop Management System" className="max-h-[480px] bg-no-repeat opacity-0" />
+
         <BorderBeam size={200} />
       </div>
 
