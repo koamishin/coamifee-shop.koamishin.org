@@ -14,6 +14,8 @@ slug: first-release-v1-0-0
 
 We're thrilled to announce the **first major release** of Coffee Shop Management System! After months of dedicated development and extensive testing, we're bringing you a comprehensive solution designed specifically for coffee shop operations.
 
+<!-- truncate -->
+
 ## 🎯 What is the Coffee Shop Management System?
 
 The Coffee Shop Management System is a modern, web-based platform built with cutting-edge technologies including **Laravel 12**, **Livewire 3**, and **Tailwind CSS 4**. It's designed to streamline every aspect of running a successful coffee business, from inventory management to customer relations.
@@ -140,7 +142,7 @@ docker run -v coamifee_storage:/var/www/html/storage \
 We welcome contributions from the community! Whether you're a developer, designer, or coffee shop owner with ideas, we'd love your input.
 
 ### **Get Started**
-- 📖 [Read our contribution guide](/docs/getting-started/contribution-guide)
+- 📖 [Read our documentation](/docs/getting-started/introduction)
 - 🐛 [Report bugs or request features](https://github.com/yukazaki/coamifee-shop/issues)
 - 💬 [Join our Discord community](https://discord.gg/coamifee-shop)
 - 📧 [Email us directly](mailto:hello@coamifee-shop.com)
@@ -162,7 +164,7 @@ Unlike generic POS systems, our solution is purpose-built for the unique needs o
 
 - **GitHub**: [yukazaki/coamifee-shop](https://github.com/yukazaki/coamifee-shop)
 - **Discord**: [Join our community](https://discord.gg/coamifee-shop)
-- **Documentation**: [Read the docs](/docs)
+- **Documentation**: [Read the docs](/docs/getting-started/introduction)
 - **Twitter**: [@coamifee_shop](https://twitter.com/coamifee_shop)
 
 ## 🙏 Acknowledgments

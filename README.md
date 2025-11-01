@@ -49,11 +49,11 @@ composer run coffee:serve
 
 ## 📖 Documentation
 
-For complete documentation, installation guides, and API references, visit our [Documentation](/docs).
+For complete documentation, installation guides, and API references, visit our [Documentation](/docs/getting-started/introduction).
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](/docs/contributing) for details.
+We welcome contributions! Please see our [Contributing Guide](https://github.com/koamishin/coamifee-shop/blob/main/CONTRIBUTING.md) for details.
 
 ## 📝 License
 
